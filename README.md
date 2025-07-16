@@ -4,7 +4,7 @@
 🌎 Salvador - BA | 🇧🇷 Brasil  
 📧 marcus-vinicius-2001@hotmail.com  
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -23,7 +23,6 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
----
 
 ## 🚀 Sobre mim
 
@@ -31,7 +30,7 @@ Sou um desenvolvedor fullstack com mais de 3 anos de experiência em tecnologia,
 
 Atualmente trabalho no **Ministério Público do Estado da Bahia**, onde desenvolvi uma **API de encurtamento de links** e contribuo com a nova **plataforma de processos unificados** da instituição.
 
----
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -41,7 +40,7 @@ Atualmente trabalho no **Ministério Público do Estado da Bahia**, onde desenvo
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Git, Vercel, Azure AD
 - **Metodologias:** Scrum, Kanban, Agile
 
----
+
 
 ## 🏆 Destaques
 
