@@ -4,9 +4,7 @@
 🌎 Salvador - BA | 🇧🇷 Brasil  
 📧 marcus-vinicius-2001@hotmail.com  
 
-
-
-
+---
 
 ## 📈 GitHub Stats
 
