@@ -8,11 +8,9 @@
 
 ## 📈 GitHub Stats
 
-<div>
-  <a href="https://beacons.ai/ulchin2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight" />
-</div>
+| <img src="https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight" height="180em" /> |
+|:--:|:--:|
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
