@@ -6,6 +6,15 @@
 
 ---
 
+
+## 📈 GitHub Stats
+
+![Marcus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight)
+
+---
+
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor fullstack com mais de 3 anos de experiência em tecnologia, combinando vivência em suporte técnico (N1/N2) com desenvolvimento de software moderno. Atuo principalmente com **React**, **Node.js**, **TypeScript** e **Python**, e estou sempre buscando criar soluções escaláveis e com impacto real.
@@ -29,14 +38,6 @@ Atualmente trabalho no **Ministério Público do Estado da Bahia**, onde desenvo
 - 🏅 **Vencedor do Hackathon Neoenergia** – projeto de eficiência energética
 - ⚙️ **Criador de uma API de Encurtador de Links** com autenticação via Azure
 - 🧠 Participação no **Hackathon Petrobras**, utilizando Python, Pandas e Keras para análise de dados industriais
-
----
-
-## 📈 GitHub Stats
-
-![Marcus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight)
 
 ---
 
