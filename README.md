@@ -9,9 +9,10 @@
 
 ## 📈 GitHub Stats
 
-![Marcus GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight)
+<div style="display: flex; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
