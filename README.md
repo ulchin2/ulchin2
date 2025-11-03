@@ -11,7 +11,7 @@
 | <img src="https://github-readme-stats.vercel.app/api?username=ulchin2&show_icons=true&theme=tokyonight&hide=issues" height="180em" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulchin2&layout=compact&theme=tokyonight" height="180em" /> |
 |:--:|:--:|
 
-![snake gif](https://github.com/ulchin2/ulchin2/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ulchin2/ulchin2/refs/heads/output/snake.svg)
 
 
 <div style="display: inline_block"><br>
